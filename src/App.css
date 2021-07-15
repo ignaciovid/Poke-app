@@ -1,0 +1,9 @@
+body{
+  background-color: #cec252
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}

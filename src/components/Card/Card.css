@@ -1,0 +1,22 @@
+.container-pokemon {
+  width: 160px;
+  height: 200px;
+  margin: 2px;
+  border: 2px solid tomato;
+  border-radius: 5px;
+}
+
+.container-pokemon a,
+p {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.container-pokemon img {
+    display: block;
+    margin: auto;
+    width: 130px;
+    height: 130px;
+    image-rendering:auto;
+}

@@ -1,0 +1,26 @@
+.container-pokemons {
+  text-align: center;
+  position: relative;
+  top: 15px;
+  left: 24%;
+  border: 6px solid #ffff;
+  border-radius: 10px;
+  padding:20px;
+  width: 50%;
+  height: 32rem;
+}
+
+.icons-container{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  bottom: 277px;
+  left: 20px;
+}
+
+.iconify{
+  margin-top:20px;
+  width:25px;
+  height:25px;
+  color: rgb(245, 3, 48);
+}

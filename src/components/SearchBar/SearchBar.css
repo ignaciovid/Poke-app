@@ -1,0 +1,15 @@
+.nav{
+    padding: 10px;
+    display:flex;
+}
+
+.nav a{
+    text-decoration:none;
+    margin: 8px;
+}
+
+.containerNav{
+    display:block;
+}
+
+
